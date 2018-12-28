@@ -1,0 +1,453 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Polarimetry of Arecibo Pulse Profiles</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<style>
+			li { margin-bottom: 8pt; }
+		</style>
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>NANOGrav</strong> Polarimetry of Arecibo Pulse Profiles</a>
+									<ul class="icons">
+										<li><a href="https://twitter.com/nanograv?lang=en" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/NANOGrav/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/nanograv/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h2>The NANOGrav 11-year Data Set: Arecibo Observatory Polarimetry and Pulse Microcomponents</h2>
+										</header>
+										<p>by the <a href="http://nanograv.org/people/">NANOGrav Collaboration</a>;</br>
+											corresponding author: <a href="mailto:pete.gentile@nanograv.org?Subject=NANOGrav%2011-Year%20Polarimetry"
+											target="_top">Peter A. Gentile</a>.
+										</p>
+										<p>Published in <a href="http://iopscience.iop.org/article/10.3847/1538-4357/aac9c9/meta">The Astrophysical Journal, July 20th, 2018</a>.
+										<p>
+										  We present the polarization pulse profiles for 28 pulsars observed with the Arecibo Observatory as part of the  <a href="http://nanograv.org/">North American Nanohertz Observatory for Gravitational Waves (NANOGrav)</a> <a href="https://nanograv.github.io/11yr_dataset/">11-year data set</a>. The high sensitivity of our observations have allowed us to <b>detect low-intensity "microcomponents" in our data set, which can impact the timing of our pulsars</b> and determination of the flux density, as well as give insights into the geometry of the pulsar beam. We ere able to describe the time variability of the instrumentation at Arecibo, which when corrected for in the future, will allow us to <b>improve the sensitivity of our gravitational-wave measurements</b>.
+
+
+										</p>
+										<ul class="actions">
+											<li><a href="https://arxiv.org/abs/1807.00708" class="button medium">Read paper</a></li>
+											<li><a href="https://data.nanograv.org/polarization" class="button medium">Get the polarization data</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/profilepicPFC.jpg" alt="" />
+									</span>
+								</section>
+
+
+								<!-- Section 0 -->
+									<section>
+										<header class="major">
+											<h2>Polarimetry of Millisecond Pulsars</h2>
+										</header>
+
+										<div class="row 200%">
+
+											<div class="6u 12u$(medium)">
+												<span class="image fit"><img src="images/Rankin2015_fig1.png" alt="" /></span>
+												<p><b>Image</b>: We observe different polarization properties, both the angle and the intensity, as the pulsar beam sweeps across our line of sight (Credit: <a href="https://arxiv.org/abs/1502.05270">Rankin 2015</a>).</p>
+											</div>
+
+											<div class="6u 12u$(medium)">
+												<ul>
+												  <li>
+													       											Precision timing of millisecond pulsars over years
+															and decades allows us to build <b>models of radio-pulse
+															arrival times of incredible accuracy</b>. These models
+															account for the pulsar's spin period, its evolution, the dispersion of radio pulses in
+															the interstellar medium, and many other effects. Developing precision timing models for many pulsars allows their use as <b>tools to test fundamental physics</b>.
+		    
+												  </li>
+
+
+												  <li>
+
+												    NANOGrav requires <b>extremely sensitive measurements of millisecond-pulsar pulse profiles</b> in order to reach its goal of characterizing the low-frequency gravitational wave universe. We use some of the largest radio telescopes in the world to obtain our measurements.
+												   
+												  </li>
+												  <li>
+
+												    Electromagnetic waves are often <b>polarized</b>, which means that the electric fields oscillate in one direction. Emission from pulsars is often highly polarized, and therefore the bulk of the electic fields from the waves oscillate the same way. Not only are the <b>pulse profiles from pulsars high stable, but the polarization profiles are as well</b>.
+
+
+
+
+
+
+												  </li>
+										
+
+													<li>
+
+			Understanding how measurements of polarization affect our timing is a focus of NANOGrav's <b>Timing</b> working group.
+													</li>
+
+
+
+
+												</ul>
+
+												<ul class="actions">
+													<li><a href="http://nanograv.org/research/" class="button medium">Read more</a></li>
+												</ul>
+
+											</div>
+
+										</div>
+
+									</section>
+
+							<!-- Section 1 -->
+								<section>
+									<header class="major">
+										<h2>The NANOGrav 11-year Data Set</h2>
+									</header>
+
+									<div class="row 200%">
+
+										<div class="6u 12u$(medium)">
+											<ul>
+												<li>
+													NANOGrav's <b>latest data release</b> contains radio-pulse times
+													of arrival (TOAs) and timing-models for <b>45 millisecond pulsars</b>.
+												</li>
+
+												<li>
+													The observations span roughly <b>11.4 years</b>, from July 30, 2005,
+														to December 31, 2015. We cover radio frequencies from 300 MHz to 2.5 GHz.											The pulsar with the largest data volume is J1713+0747,
+														with 28,000 TOAs.
+												</li>
+
+												<li>
+													Observations were carried out using the 100-m Robert C.
+														Byrd <b>Green Bank Telescope</b> (GBT) of the
+														<a href="http://greenbankobservatory.org/telescopes/gbt/">Green Bank Observatory</a>,
+														and the 305-m William E. Gordon Telescope (<b>Arecibo</b>) of
+														<a href="http://outreach.naic.edu/ao/scientist-user-portal/">Arecibo Observatory</a>. In this work, we present observations only from Arecibo.
+												</li>
+
+												<li>
+													In the sky map shown here, pulsar positions are marked by circles, with areas proportional to the number of TOAs in the dataset; the color scale indicates the timing baseline.
+													The <b>34 pulsars with baselines greater than 3 years</b>
+													have solid red edges. We use only these 34 in our searches
+													for a GW background.
+												</li>
+
+											</ul>
+
+											<ul class="actions">
+												<li><a href="https://arxiv.org/abs/1801.01837" class="button medium">Read 11-yr data paper</a></li>
+												<li><a href="https://data.nanograv.org/" class="button medium">Download data</a></li>
+											</ul>
+
+										</div>
+
+										<div class="6u 12u$(medium)">
+											<span class="image fit"><img src="images/nano11yr_pulsardist.png" alt="" /></span>
+												<p><b>Image</b>: Sky map of NANOGrav pulsars in the 11-yr data set. (Credit: <a href="https://arxiv.org/abs/1801.02617">Arzoumanian et al. 2018b</a></p>
+										</div>
+
+									</div>
+
+								</section>
+
+
+								<!-- Section 2 -->
+									<section>
+										<header class="major">
+											<h2>Pulse Microcomponents</h2>
+										</header>
+
+										<div class="row 200%">
+
+											<div class="6u 12u$(medium)">
+												<span class="image fit"><img src="images/apjaac9c9f1_13_hr_cropped.jpg" alt="" /></span>
+												<p><b>Image</b>: Pulse polarization profiles for one of our best-timed pulsars, J1713+0747.  The bottom shows a zoom in of the baseline, and while it looks flat in the middle panel, we see clear low-level structures.</p>
+
+
+											</div>
+
+											<div class="6u 12u$(medium)">
+
+												<ul>
+										
+
+													<li>
+
+													  To determine when a pulse arrives, we fit a template shape to each pulse profile we observe. Since our instruments are inherently noisy, we do not perfectly measure the TOA and <b>there is uncertainty in our arrival-time estimates</b>. 
+													</li>
+													<li>
+													  Proper polarization calibration is crucial since pulsar emission is highly polarized. Incorrect calibration will lead to <b>observed changes in pulse shapes</b>, which will induce large timing uncertainties.
+													</li>
+
+													<li>
+													  Microcomponents, when unaccounted for, will affect our timing measurements if our template shapes differ from that of the profiles. To obtain the <b>best possible arrival-time precision, we must account for these microcomponents</b>. Measurements of pulsar flux densities will also be affected.
+
+													</li>
+
+
+													<li>
+
+													  The observation of microcomponents implies that we are <b>seeing low-level emission over the entirety of each pulse rotation</b>. Therefore, we know that the emission extends beyond the geometry of a simple beam.
+
+													</li>
+										
+												</ul>
+
+											</div>
+
+										</div>
+
+									</section>
+
+									<!-- Section 3 -->
+										<section>
+											<header class="major">
+												<h2>Calibration of the Arecibo Observatory</h2>
+											</header>
+
+											<div class="row 200%">
+
+												<div class="6u 12u$(medium)">
+
+													<ul>
+														<li>
+
+														  Since pulsars are highly polarized, we must ensure that we are <b>measuring the same polarization profiles to avoid artificial change in pulse shape</b> that might cause additional uncertainties in our arrival times.
+
+
+														</li>
+
+														<li>
+														  As a radio telescope tracks a souce across the sky, the dipole antenna used to measure the emission will rotate, thereby <b>changing the relative orientation of the radio waves</b>. The change in polarization from this affect must be properly accounted for.
+														</li>
+
+
+														<li>
+
+														  We perform different sets of calibration observations to empirically determine the <b>variations of our system on the timescale of a single observation</b>.
+
+
+														</li>
+
+														<li>
+
+														  We measured and quantified the <b>changes in the calibration parameters over time</b>. These corrections describe how the emission received from the pulsar is affected by all of our instrumentation, and can be applied in the future to correct our arrival times.
+
+
+
+														</li>
+
+										
+													</ul>
+
+												</div>
+
+												<div class="6u 12u$(medium)">
+													<span class="image fit"><img src="images/20170809_154601_circled.jpg" alt="" /></span>
+													<p><b>Image</b>: NANOGrav-ers taking a break from working on the 12.5-year data set to visit the Very Large Array in Soccoro, New Mexico. As the highlighted crossed dipole turns as the telescope tracks a source, it measures radio polarization differently. We correct for this effect, along with any imperfections in the cross itself (Credit: Michael Lam).</p>
+
+												</div>
+
+											</div>
+
+
+										</section>
+
+
+										<!-- Section 4 -->
+											<section>
+												<header class="major">
+													<h2>Studies of Galactic Magnetic Fields</h2>
+												</header>
+
+												<div class="row 200%">
+
+													<div class="6u 12u$(medium)">
+														<span class="image fit"><img src="images/Gentile+fig4.png" alt="" /></span>
+														<p><b>Image</b>: Galactic magnetic field parallel to the line of sight. The asymmetry above and below the plane of the Galaxy, representing the magnetic field towards and away from the Earth respectively, agrees with Galactic magnetic field models.</p>
+													</div>
+
+													<div class="6u 12u$(medium)">
+
+														<ul>
+															<li>
+
+															  Magnetic fields <b>thread through the Galaxy at very low levels</b>, almost one-millionth the strength of that around the Earth.
+										
+															</li>
+
+										
+															<li>
+
+
+															  The Faraday effect rotates the linear polarization of radio emisssion depending on the magnetic field parallel to the line of sight and the number density of electron along the path. Since we also measure the arrival-time delay from dispersion due to electrons along the propagation path, we are able to <b>determine the parallel component of the Galaxy's magnetic field</b>.
+																									    </li>
+															<li>
+
+					We find differences in the "Rotation Measure", which quantifies the strength of the Faraday effect, along different sightlines through the Galaxy. Interestingly, some sightlines that are very close to one another can have <b>very different magnetic field estimates</b>.										
+
+
+															<li>
+
+															  While our measurements agree with models of the Galactic magnetic field, <b>pulsar-timing polarimetry complements other studies</b>, such as from the dynamics of "dust" in the interstellar medium.
+
+															</li>
+
+														</ul>
+
+													</div>
+
+												</div>
+
+
+											</section>
+
+											<!-- Section 5 -->
+												<section>
+													<header class="major">
+														<h2>Future Directions</h2>
+													</header>
+
+													<div class="row 200%">
+
+														<div class="6u 12u$(medium)">
+
+															<ul>
+
+															  <li>
+															    Future NANOGrav data sets will begin to incorporate the corrections we have measured here, thereby <b>increasing the precision of our arrival-time estimates</b>.
+
+
+
+																</li>
+
+						<li>
+
+						  We are currently working on applying these studies to our observations taken with the Green Bank Telescope, so that we can <b>correct all observations in future NANOGrav data releases</b>.
+
+						  
+
+
+
+						  
+		
+
+
+																</li>
+																<li>
+																Many propagation effects due to radio waves traveling through the interstellar medium are radio-frequency-dependent, as are polarization measurements.  Disentangling the effects of the interstellar medium on our data is the prime focus of NANOGrav's <b>Interstellar Medium Mitigation</b> working group.
+		
+																</li>
+
+
+
+																<li>
+																  With many more pulsars in our array, we can begin to understand both the <b>spatial and temporal variability of Galactic magnetic fields</b>.
+
+																  
+
+																</li>
+
+																
+
+															</ul>
+
+														</div>
+
+														<div class="6u 12u$(medium)">
+															<span class="image fit"><img src="images/epochs_12yr_prelim.png" alt="" /></span>
+															<p><b>Image</b>: 10,000 unique observations of 48 pulsars in the preliminary NANOGrav 12.5-year data set.</p>
+
+															</body>
+														</div>
+
+													</div>
+
+
+												</section>
+
+												<!-- Section 6 -->
+													<!-- Section 7 -->
+														<section>
+															<header class="major">
+																<h2>Authors</h2>
+															</header>
+
+															<div class="row 200%">
+
+																<div class="6u 12u$(medium)">
+																	<ul>
+																		<li>
+																		  Members of the <b>NANOGrav Collaboration</b>: P. A. Gentile, M. A. McLaughlin, P. B. Demorest, I. H. Stairs, Z. Arzoumanian, K. Crowter, T. Dolch, M. E. DeCesar, J. A. Ellis, R. D. Ferdman, E. C. Ferrara, E. Fonseca, M. E. Gonzalez, G. Jones, M. L. Jones, M. T. Lam, L. Levin, D. R. Lorimer, R. S. Lynch, C. Ng, D. J. Nice, T. T. Pennucci, S. M. Ransom, P. S. Ray, R. Spiewak, K. Stovall, J. K. Swiggum, W. W. Zhu
+
+
+																		</li>
+
+
+																		<li><b>Contact</b>:
+
+<a href="mailto:pete.gentile@nanograv.org?Subject=NANOGrav%2011-Year%20Polarimetry" target="_top">Dr. Peter A. Gentile</a> (corresponding author),
+<a href="mailto:maura.mclaughlin@mail.wvu.edu?Subject=NANOGrav%2011-Year%20Polarimetry" target="_top">Prof. Maura McLaughlin</a> (NANOGrav chair).</li>
+
+																	</ul>
+																</div>
+
+																<div class="6u 12u$(medium)">
+																	<span class="image fit"><img src="images/nano_people.jpg" alt="" /></span>
+																	<p>The NANOGrav Collaboration at the 2017 Fall meeting in Lafayette College, PA
+																</div>
+
+															</div>
+
+
+														</section>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<p class="copyright">&copy; NANOGrav 2018. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+		</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+
+
+	</body>
+
+
+</html>
